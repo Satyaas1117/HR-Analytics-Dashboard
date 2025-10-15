@@ -32,7 +32,7 @@ The dashboard includes visualizations and metrics covering the following key are
 --> Technologies Used 🌐
 
 1. **Microsoft Power BI Desktop:** Used for data modeling, visualization, and report creation.
-2. **CSV File[[(https://1drv.ms/x/c/5544ece13699b0a9/EQ53ERodj71NgajeYP2cUa0BSBx493vzQiTvY0qTojRssA?e=lGRfXq)]]**
+2. **CSV File:[(https://1drv.ms/x/c/5544ece13699b0a9/EQ53ERodj71NgajeYP2cUa0BSBx493vzQiTvY0qTojRssA?e=lGRfXq)]**
    
 --> How to Use 💻
 
