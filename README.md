@@ -50,6 +50,6 @@ https://github.com/Satyaas1117/HR-Analytics-Dashboard/blob/main/HR%20Dashboard.p
 
 --> Author 👩‍💼
 
-* **[Satya Gupta]** - [Link to your GitHub Profile](https://github.com/Satyaas1117)
-* **[LinkedIn Profile]** - [Link to your LinkedIn](https://www.linkedin.com/in/satyagupta1117/)
+* **[GitHub Profile]** - [GitHub](https://github.com/Satyaas1117)
+* **[LinkedIn Profile]** - [LinkedIn](https://www.linkedin.com/in/satyagupta1117/)
 
