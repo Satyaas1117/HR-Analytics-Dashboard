@@ -1,12 +1,15 @@
 A Power BI HR Analytics Dashboard
 
 --> Overview 📖
+
 This repository contains the Power BI report file for an interactive **HR Analytics Dashboard**. The dashboard is designed to provide comprehensive insights into an organization's workforce, focusing on key performance indicators (KPIs) such as employee demographics, attrition rates, and salary distribution.
 
 --Goal 🎯
+
 The goal of this project is to empower HR professionals and management with a data-driven tool to monitor employee trends, understand attrition drivers, and make informed decisions about workforce planning and management.
 
 --> Key Features 🌟
+
 The dashboard includes visualizations and metrics covering the following key areas:
 
 1. **Overall Employee Demographics:**
@@ -35,13 +38,14 @@ The dashboard includes visualizations and metrics covering the following key are
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[Your-Username]/[Your-Repo-Name].git
+    git clone [https://github.com/](https://github.com/)[Satyaas1117]/[HR-Analytics-Dashboard].git
     ```
 2.  **Open the `.pbix` file:** Open the `HR_Analytics_Dashboard.pbix` file using Microsoft Power BI Desktop.
 3.  **Refresh Data:** If the data source is a local file, ensure it's in the correct directory. You may need to update the data source settings in Power BI.
 4.  **Explore the Dashboard:** Interact with the visualizations, apply filters on the right pane, and drill down to gain deeper insights.
 
 --> Dashboard Screenshots 📷
+
 https://github.com/Satyaas1117/HR-Analytics-Dashboard/blob/main/HR%20Dashboard.png
 
 --> Author 👩‍💼
