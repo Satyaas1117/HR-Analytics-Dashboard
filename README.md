@@ -32,13 +32,13 @@ The dashboard includes visualizations and metrics covering the following key are
 --> Technologies Used 🌐
 
 1. **Microsoft Power BI Desktop:** Used for data modeling, visualization, and report creation.
-2. **CSV File:[(https://1drv.ms/x/c/5544ece13699b0a9/EQ53ERodj71NgajeYP2cUa0BSBx493vzQiTvY0qTojRssA?e=lGRfXq)]**
+2. **CSV File: [(https://1drv.ms/x/c/5544ece13699b0a9/EQ53ERodj71NgajeYP2cUa0BSBx493vzQiTvY0qTojRssA?e=lGRfXq)]**
    
 --> How to Use 💻
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[Satyaas1117]/[HR-Analytics-Dashboard].git
+    git clone [git clone https://github.com/satyaa1117/HR-Analytics-Dashboard.git]
     ```
 2.  **Open the `.pbix` file:** Open the `HR_Analytics_Dashboard.pbix` file using Microsoft Power BI Desktop.
 3.  **Refresh Data:** If the data source is a local file, ensure it's in the correct directory. You may need to update the data source settings in Power BI.
