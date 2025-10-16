@@ -8,6 +8,7 @@ This repository contains the Power BI report file for an interactive **HR Analyt
 --Goal 🎯
 
 The goal of this project is to empower HR professionals and management with a data-driven tool to monitor employee trends, understand attrition drivers, and make informed decisions about workforce planning and management.
+***
 
 --> Key Features 🌟
 
@@ -30,6 +31,7 @@ The dashboard includes visualizations and metrics covering the following key are
     * Attrition rate by salary slab
     * Attrition rate over the years
 
+***
 --> Technologies Used 🌐
 
 1. **Microsoft Power BI Desktop:** Used for data modeling, visualization, and report creation.
