@@ -1,5 +1,6 @@
 **A-Power-BI-HR-Analytics-Dashboard**
 
+
 --> Overview 📖
 
 This repository contains the Power BI report file for an interactive **HR Analytics Dashboard**. The dashboard is designed to provide comprehensive insights into an organization's workforce, focusing on key performance indicators (KPIs) such as employee demographics, attrition rates, and salary distribution.
