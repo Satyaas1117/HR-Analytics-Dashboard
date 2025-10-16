@@ -45,9 +45,12 @@ The dashboard includes visualizations and metrics covering the following key are
 3.  **Refresh Data:** If the data source is a local file, ensure it's in the correct directory. You may need to update the data source settings in Power BI.
 4.  **Explore the Dashboard:** Interact with the visualizations, apply filters on the right pane, and drill down to gain deeper insights.
 
+***
+
 --> Dashboard Screenshots 📷
 
 https://github.com/Satyaas1117/HR-Analytics-Dashboard/blob/main/HR%20Dashboard.png
+***
 
 --> Author 👩‍💼
 
